@@ -1,5 +1,5 @@
 ## Olá Mundo! 
-### Eu sou Samuel Rodrigues da Mota, desenvolvedor front-end e estudante. Atualmente estou cursando minha graduação em Ciência de Computação na Universidade Católica de Brasília e faço um curso de desenvolvedor Web Fullstack na Kenzie Academy
+### Eu sou Samuel Rodrigues da Mota, desenvolvedor FullStack em formação. Atualmente estou cursando minha graduação em Ciência de Computação na Universidade Católica de Brasília e faço um curso de desenvolvedor Web Fullstack na Kenzie Academy
 
 
 #### Tecnologias
