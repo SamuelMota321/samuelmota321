@@ -2,7 +2,7 @@
 ### Eu sou Samuel Rodrigues da Mota, desenvolvedor FullStack em formação. Atualmente estou cursando minha graduação em Ciência de Computação na Universidade Católica de Brasília e faço um curso de desenvolvedor Web Fullstack na Kenzie Academy
 
 
-#### Tecnologias
+<!--#### Tecnologias
 <div>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -23,9 +23,6 @@
 
 </div>
 
-
-
-<!--
 **SamuelMota321/samuelmota321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
