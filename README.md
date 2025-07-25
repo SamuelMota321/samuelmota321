@@ -16,10 +16,10 @@ Backend: Node.js, Python, Java, Django, SpringBoot
 Outras Áreas: Machine Learning, Automações com Python
 
 ## O que estou aprendendo no momento:
-Machine Learning (Scikit learning).
-EDA.
-Algoritmos de Regressäo.
-Aprofundamento em arquiteturas de Desenvolvimento Web Full Stack.
-Estatística 
-Me aprofundando em automações com python
+ - Machine Learning (Scikit learning).
+ - EDA.
+ - Algoritmos de Regressäo.
+ - Aprofundamento em arquiteturas de Desenvolvimento Web Full Stack.
+ - Estatística 
+ - Me aprofundando em automações com python
 
