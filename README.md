@@ -31,7 +31,9 @@ Outras Áreas:
  - TorchVision
  - TensorFlow
  - OpenCv
- - Pandas 
+ - Pandas
+ - MatplotLib
+ - SeaBorn
 
 ## O que estou aprendendo no momento:
  - Machine Learning (Scikit learning).
