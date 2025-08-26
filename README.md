@@ -6,34 +6,11 @@ Acredito no poder da tecnologia para criar um impacto positivo e estou sempre ab
 
 Tecnologias e Habilidades:
 
-Frontend: 
- - React
- - Next.js
- - TypeScript
- - Scss
- - TailWildCss
+Frontend: React, Next.js, TypeScript, Scss e TailWildCss
 
-Backend: 
- - Node.js
- - Python
- - Java
- - Django
- - SpringBoot
- - MySQL
- - PostgreSQL
- - PrismaORM
- - TypesCript
- - Express
+Backend: Python, Java, Django, SpringBoot, MySQL, PostgreSQL, PrismaORM, TypesCript, Express
 
-Outras Áreas: 
- - Scikit Learning
- - PyAutoGui
- - TorchVision
- - TensorFlow
- - OpenCv
- - Pandas
- - MatplotLib
- - SeaBorn
+Outras Áreas: Scikit Learning, PyAutoGui, TorchVision, TensorFlow, OpenCv, Pandas, MatplotLib, SeaBorn
 
 ## O que estou aprendendo no momento:
  - Machine Learning (Scikit learning).
