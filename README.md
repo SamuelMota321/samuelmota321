@@ -8,7 +8,7 @@ Tecnologias e Habilidades:
 
 Frontend: React, Next.js, TypeScript, Scss e TailWildCss
 
-Backend: Python, Java, Django, SpringBoot, MySQL, PostgreSQL, PrismaORM, TypesCript, Express
+Backend: Python, Java, SpringBoot, MySQL, PostgreSQL, PrismaORM, TypesCript, Express
 
 Outras Áreas: Scikit Learning, PyAutoGui, TorchVision, TensorFlow, OpenCv, Pandas, MatplotLib, SeaBorn
 
