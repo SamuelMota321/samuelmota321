@@ -6,7 +6,7 @@ Acredito no poder da tecnologia para criar um impacto positivo e estou sempre ab
 
 Tecnologias e Habilidades:
 
-Frontend: React, Next.js, TypeScript, Scss e TailWildCss
+Frontend: React, Next.js, Angular, TypeScript, Scss e TailWildCss
 
 Backend: Python, Java, SpringBoot, MySQL, PostgreSQL, PrismaORM, TypesCript, Express
 
