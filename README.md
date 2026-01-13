@@ -8,14 +8,12 @@ entendimento de arquiteturas de dados ponta a ponta.
 
 
 ## HABILIDADES TÉCNICAS
-- Data Science & AI: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow,
-TorchVision, OpenCV.
-- Automação & RPA: PyAutoGui, Selenium, Web Scraping.
+- Data Science & AI: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV.
+- Automação & RPA: PyAutoGui, Selenium.
 - Banco de Dados: SQL, MySQL, PostgreSQL, PrismaORM.
 - Backend & Engenharia: Java, SpringBoot, Express, Node.js, APIs RESTful.
 - Frontend: React, Next.js, Angular, TypeScript, TailwindCSS.
-- Conceitos: Estatística, ETL, EDA, Regressão Linear/Logística, etc...
-
+  
 ## O que estou aprendendo no momento:
  - Machine Learning (Scikit learning).
  - EDA.
