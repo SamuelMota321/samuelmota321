@@ -15,7 +15,7 @@ entendimento de arquiteturas de dados ponta a ponta.
 - Frontend: React, Next.js, TypeScript, TailwindCSS.
   
 ## O que estou aprendendo no momento:
- - Machine Learning (Scikit learning).
+ - Machine Learning .
  - EDA.
  - Algoritmos de Regressäo.
  - Aprofundamento em arquiteturas de Desenvolvimento Web Full Stack.
