@@ -12,7 +12,7 @@ entendimento de arquiteturas de dados ponta a ponta.
 - Automação & RPA: PyAutoGui, Selenium.
 - Banco de Dados: SQL, MySQL, PostgreSQL, PrismaORM.
 - Backend & Engenharia: Java, SpringBoot, Express, Node.js, APIs RESTful.
-- Frontend: React, Next.js, Angular, TypeScript, TailwindCSS.
+- Frontend: React, Next.js, TypeScript, TailwindCSS.
   
 ## O que estou aprendendo no momento:
  - Machine Learning (Scikit learning).
