@@ -6,97 +6,27 @@ Também desenvolvo soluções de automação com Python, Selenium e web scraping
 
 ## 🛠️ Habilidades técnicas
 
-### Dados e Engenharia de Dados
-- Python
-- SQL
-- Pandas
-- NumPy
-- Polars
-- Apache Spark / PySpark
-- Apache Airflow
-- SQLAlchemy
-- ETL / ELT
-- Data Lake e Data Warehouse
-- Arquitetura Medallion
-- Modelagem de dados
-- Análise exploratória de dados
-
-### Business Intelligence e Visualização
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
-- Dashboards e indicadores de negócio
-- Storytelling com dados
-
-### Machine Learning e Inteligência Artificial
-- Scikit-learn
-- Regressão
-- Classificação
-- Clusterização
-- Estatística aplicada
-- Integração de LLMs com dados estruturados
-- RAG em fase de desenvolvimento
-
-### Backend e APIs
-- FastAPI
-- Python
-- Node.js
-- Express.js
-- Java
-- Spring Boot
-- Django REST Framework
-- APIs REST
-- Pytest
-- Loguru
-
-### Automação e RPA
-- Selenium
-- Web scraping
-- Requests
-- BeautifulSoup
-- PyAutoGUI
-- Automação de processos com Python
-
-### Frontend e Full Stack
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML
-- CSS
-
-### Bancos de Dados e DevOps
-- Oracle
-- PostgreSQL
-- MySQL
-- Supabase
-- Git
-- GitHub
-- GitLab
-- GitLab CI/CD
-- Docker
-- Docker Compose
+| Área | Tecnologias e conhecimentos |
+|---|---|
+| **Engenharia de Dados** | Python, SQL, Pandas, NumPy, Polars, Spark, PySpark, Airflow, SQLAlchemy, ETL/ELT, Data Lake, Data Warehouse, arquitetura medallion e modelagem de dados |
+| **Análise e BI** | Power BI, Excel, Matplotlib, Seaborn, análise exploratória de dados, KPIs, dashboards e storytelling com dados |
+| **Machine Learning e IA** | Scikit-learn, regressão, classificação, clusterização, estatística aplicada, LLMs com dados estruturados e RAG |
+| **Backend e APIs** | FastAPI, Node.js, Express.js, Java, Spring Boot, Django REST Framework, APIs REST, Pytest e Loguru |
+| **Automação e RPA** | Selenium, web scraping, Requests, BeautifulSoup, PyAutoGUI e automação de processos com Python |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML e CSS |
+| **Bancos de Dados** | Oracle, PostgreSQL, MySQL e Supabase |
+| **DevOps e Versionamento** | Git, GitHub, GitLab, GitLab CI/CD, Docker e Docker Compose |
 
 ## 📚 Atualmente estou estudando
 
-- Engenharia e arquitetura de dados
-- Machine Learning e estatística aplicada
-- Databricks e processamento distribuído
-- Cloud Computing com foco em GCP
-- Qualidade, governança e observabilidade de dados
-- Inteligência Artificial generativa e RAG
+| Tema | Foco |
+|---|---|
+| **Engenharia de Dados** | Arquiteturas modernas, qualidade, governança e observabilidade |
+| **Cloud Computing** | Ecossistema GCP aplicado a dados |
+| **Processamento Distribuído** | Databricks, Spark e pipelines escaláveis |
+| **Data Science** | Machine Learning, estatística aplicada e avaliação de modelos |
+| **Inteligência Artificial** | IA generativa, integração de LLMs e RAG |
 
 ## 🎯 Objetivo profissional
 
-Busco evoluir profissionalmente em posições relacionadas a:
-
-- Engenharia de Dados
-- Análise de Dados e Business Intelligence
-- Ciência de Dados
-- Desenvolvimento Python para dados
-- Data & AI
-- Automação de processos
-
-Gosto de transformar problemas de negócio em soluções técnicas confiáveis, escaláveis e orientadas por dados.
+Busco oportunidades em **Engenharia de Dados, Análise de Dados, Business Intelligence, Ciência de Dados, Data & AI e Desenvolvimento Python**, nas quais eu possa transformar problemas de negócio em soluções confiáveis, escaláveis e orientadas por dados.
