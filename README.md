@@ -8,7 +8,7 @@ Também desenvolvo soluções de automação com Python, Selenium e web scraping
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Engenharia de Dados** | Python, SQL, Pandas, NumPy, Polars, Spark, PySpark, Airflow, SQLAlchemy, ETL/ELT, Data Lake, Data Warehouse, arquitetura medallion e modelagem de dados |
+| **Engenharia de Dados** | Python, SQL, Pandas, NumPy, Polars, Spark, PySpark, Airflow, SQLAlchemy, ETL/ELT, Data Lake, Data Warehouse, Data Lakehouse |
 | **Análise e BI** | Power BI, Excel, Matplotlib, Seaborn, análise exploratória de dados, KPIs, dashboards e storytelling com dados |
 | **Machine Learning e IA** | Scikit-learn, regressão, classificação, clusterização, estatística aplicada, LLMs com dados estruturados e RAG |
 | **Backend e APIs** | FastAPI, Node.js, Express.js, Django REST Framework, APIs REST, Pytest e Loguru |
@@ -22,11 +22,10 @@ Também desenvolvo soluções de automação com Python, Selenium e web scraping
 | Tema | Foco |
 |---|---|
 | **Engenharia de Dados** | Arquiteturas modernas, qualidade, governança e observabilidade |
-| **Cloud Computing** | Ecossistema GCP aplicado a dados |
-| **Processamento Distribuído** | Databricks, Spark e pipelines escaláveis |
+| **Processamento Distribuído** | Spark e pipelines escaláveis |
 | **Data Science** | Machine Learning, estatística aplicada e avaliação de modelos |
 | **Inteligência Artificial** | IA generativa, integração de LLMs e RAG |
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades em **Engenharia de Dados, Análise de Dados, Business Intelligence, Ciência de Dados, Data & AI e Desenvolvimento Python**, nas quais eu possa transformar problemas de negócio em soluções confiáveis, escaláveis e orientadas por dados.
+Busco oportunidades em **Engenharia de Dados, Análise de Dados, Business Intelligence, Ciência de Dados ou Data & AI **, nas quais eu possa transformar problemas de negócio em soluções confiáveis, escaláveis e orientadas a dados.
