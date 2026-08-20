@@ -11,7 +11,7 @@ Também desenvolvo soluções de automação com Python, Selenium e web scraping
 | **Engenharia de Dados** | Python, SQL, Pandas, NumPy, Polars, Spark, PySpark, Airflow, SQLAlchemy, ETL/ELT, Data Lake, Data Warehouse, arquitetura medallion e modelagem de dados |
 | **Análise e BI** | Power BI, Excel, Matplotlib, Seaborn, análise exploratória de dados, KPIs, dashboards e storytelling com dados |
 | **Machine Learning e IA** | Scikit-learn, regressão, classificação, clusterização, estatística aplicada, LLMs com dados estruturados e RAG |
-| **Backend e APIs** | FastAPI, Node.js, Express.js, Java, Spring Boot, Django REST Framework, APIs REST, Pytest e Loguru |
+| **Backend e APIs** | FastAPI, Node.js, Express.js, Django REST Framework, APIs REST, Pytest e Loguru |
 | **Automação e RPA** | Selenium, web scraping, Requests, BeautifulSoup, PyAutoGUI e automação de processos com Python |
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML e CSS |
 | **Bancos de Dados** | Oracle, PostgreSQL, MySQL e Supabase |
